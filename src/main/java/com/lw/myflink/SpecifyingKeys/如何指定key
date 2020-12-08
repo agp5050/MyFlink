@@ -1,0 +1,11 @@
+比如某些算子（join,coGroup,keyBy,groupB	y）要求在数据元上定义key。
+另外有些算子操作（reduce,groupReduce,Aggregate,Windows）允许数据在处理之前根据key进行分组。
+在Flink中数据模型不是基于Key,Value格式处理的，因此不需将数据处理成键值对的格式，key是“虚拟的”，
+可以人为的来指定，实际数据处理过程中根据指定的key来对数据进行分组，DataSet中使用groupBy来指定key,DataStream中使用keyBy来指定key。
+如何指定keys?
+    1.使用Tuples来指定key
+        代码文件：GroupByUseTuple,KeyByUseTuple
+
+    2.使用Field Expression来指定key
+
+    3.使用 Key Selector Functions来指定key

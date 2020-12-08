@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f73c077d-bc3b-4fb9-8837-77bebeeb1e7f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fucorTLzPS3fmV2rvfUXREvj6Z" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="TwoPhaseCommitSinkFunction&#9;PSI&#9;JAVA://org.apache.flink.streaming.api.functions.sink.TwoPhaseCommitSinkFunction" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hbase" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjsxt.myflink.Streaming.kafka" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2018IDEA_space\MyFlink\data" />
+      <recent name="D:\2018IDEA_space\MyFlink\src\main\java\com\bjsxt\myflink\Streaming\source" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WordCount">
+    <configuration name="CreateDataSetFromElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lw.myflink.batch.CreateDataSetFromElements" />
+      <module name="MyFlink" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lw.myflink.batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flink_LocalEnvironment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lw.myflink.batch.Flink_LocalEnvironment" />
+      <module name="MyFlink" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lw.myflink.batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadMessageFromKafkaAndUseFileSink (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lw.myflink.Streaming.kafka.ReadMessageFromKafkaAndUseFileSink" />
+      <module name="MyFlink" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lw.myflink.Streaming.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lw.myflink.batch.WordCount" />
+      <module name="MyFlink" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lw.myflink.batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.lw.scala.myflink.batch.WordCount" />
+      <module name="MyFlink" />
+      <option name="PROGRAM_PARAMETERS" value="--input ./data/words --output ./data/wcresulttemp" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lw.scala.myflink.batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReadMessageFromKafkaAndUseFileSink (1)" />
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.CreateDataSetFromElements" />
+      <item itemvalue="Application.Flink_LocalEnvironment" />
+      <item itemvalue="Application.WordCount (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.WordCount (1)" />
+        <item itemvalue="Application.Flink_LocalEnvironment" />
+        <item itemvalue="Application.CreateDataSetFromElements" />
+        <item itemvalue="Application.ReadMessageFromKafkaAndUseFileSink (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f73c077d-bc3b-4fb9-8837-77bebeeb1e7f" name="Default" comment="" />
+      <created>1547730199117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547730199117</updated>
+      <workItem from="1547730200459" duration="5267000" />
+      <workItem from="1547799999136" duration="8000" />
+      <workItem from="1547861607782" duration="16000" />
+      <workItem from="1549705447993" duration="7437000" />
+      <workItem from="1550026583617" duration="10701000" />
+      <workItem from="1550121253992" duration="19672000" />
+      <workItem from="1550191933310" duration="505000" />
+      <workItem from="1550196661012" duration="7000" />
+      <workItem from="1550240201766" duration="3910000" />
+      <workItem from="1550406671129" duration="9649000" />
+      <workItem from="1550419665078" duration="910000" />
+      <workItem from="1550445520509" duration="1187000" />
+      <workItem from="1550763538100" duration="8160000" />
+      <workItem from="1550795875520" duration="851000" />
+      <workItem from="1550797581465" duration="7000" />
+      <workItem from="1550875098208" duration="5546000" />
+      <workItem from="1550884133065" duration="16000" />
+      <workItem from="1550928058079" duration="14340000" />
+      <workItem from="1550971046780" duration="26000" />
+      <workItem from="1551013145401" duration="3889000" />
+      <workItem from="1551049688361" duration="651000" />
+      <workItem from="1551105110865" duration="6286000" />
+      <workItem from="1551363181506" duration="2239000" />
+      <workItem from="1551402240419" duration="608000" />
+      <workItem from="1551431791009" duration="42000" />
+      <workItem from="1551489022963" duration="1222000" />
+      <workItem from="1551707231798" duration="1204000" />
+      <workItem from="1551738510015" duration="4008000" />
+      <workItem from="1551747741915" duration="1482000" />
+      <workItem from="1551752929679" duration="8527000" />
+      <workItem from="1551915437216" duration="680000" />
+      <workItem from="1551925198638" duration="9000" />
+      <workItem from="1554333324192" duration="1255000" />
+      <workItem from="1554338785900" duration="608000" />
+      <workItem from="1554343774807" duration="8429000" />
+      <workItem from="1558011365965" duration="9897000" />
+      <workItem from="1558044038836" duration="3373000" />
+      <workItem from="1558060303336" duration="14395000" />
+      <workItem from="1558087119545" duration="8000" />
+      <workItem from="1558228741311" duration="6115000" />
+      <workItem from="1558254457542" duration="3156000" />
+      <workItem from="1558257950625" duration="762000" />
+      <workItem from="1558318464111" duration="12000" />
+      <workItem from="1558318696740" duration="34000" />
+      <workItem from="1559347020664" duration="1146000" />
+      <workItem from="1559352803990" duration="27000" />
+      <workItem from="1559374605813" duration="5000" />
+      <workItem from="1559485604997" duration="3596000" />
+      <workItem from="1559523753671" duration="42000" />
+      <workItem from="1559610125411" duration="80000" />
+      <workItem from="1560896893752" duration="1693000" />
+      <workItem from="1560911169924" duration="7000" />
+      <workItem from="1560914079899" duration="222000" />
+      <workItem from="1560921622328" duration="1297000" />
+      <workItem from="1560924424379" duration="1246000" />
+      <workItem from="1597071596790" duration="83000" />
+      <workItem from="1597071699000" duration="676000" />
+      <workItem from="1597108295775" duration="4714000" />
+      <workItem from="1597190300641" duration="2168000" />
+      <workItem from="1597286960157" duration="1389000" />
+      <workItem from="1597367604168" duration="1942000" />
+      <workItem from="1597455294931" duration="873000" />
+      <workItem from="1597477996069" duration="615000" />
+      <workItem from="1597542368441" duration="21000" />
+      <workItem from="1597712554920" duration="2673000" />
+      <workItem from="1597738581733" duration="3121000" />
+      <workItem from="1598233733231" duration="1920000" />
+      <workItem from="1598837399278" duration="4215000" />
+      <workItem from="1598843460228" duration="3198000" />
+      <workItem from="1598859059401" duration="2559000" />
+      <workItem from="1600321376540" duration="196000" />
+      <workItem from="1601348857479" duration="5064000" />
+      <workItem from="1601381736451" duration="595000" />
+      <workItem from="1601429106127" duration="2522000" />
+      <workItem from="1602204426721" duration="721000" />
+      <workItem from="1602251586279" duration="81000" />
+      <workItem from="1602290510352" duration="1223000" />
+      <workItem from="1605752812383" duration="3033000" />
+      <workItem from="1606008634302" duration="599000" />
+      <workItem from="1606090451702" duration="1288000" />
+      <workItem from="1606187613138" duration="875000" />
+      <workItem from="1606744607514" duration="1090000" />
+      <workItem from="1606792910933" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
