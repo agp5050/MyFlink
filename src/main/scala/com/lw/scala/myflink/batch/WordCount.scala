@@ -36,6 +36,7 @@ object WordCount {
       .groupBy(0)
       .sum(1)
 
+
 //    if (params.has("output")) {
 //      counts.writeAsCsv(params.get("output"), "\n", " ")
 //      env.execute("Scala WordCount Example")
